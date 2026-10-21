@@ -1,0 +1,23 @@
+{
+  "/(auth)/login/page": "/login",
+  "/(dashboard)/assignments/page": "/assignments",
+  "/(dashboard)/audit/page": "/audit",
+  "/(dashboard)/categories/page": "/categories",
+  "/(dashboard)/damage-notes/page": "/damage-notes",
+  "/(dashboard)/dashboard/page": "/dashboard",
+  "/(dashboard)/employees/page": "/employees",
+  "/(dashboard)/items/[id]/edit/page": "/items/[id]/edit",
+  "/(dashboard)/items/[id]/page": "/items/[id]",
+  "/(dashboard)/items/new/page": "/items/new",
+  "/(dashboard)/items/page": "/items",
+  "/(dashboard)/maintenance/page": "/maintenance",
+  "/(dashboard)/notifications/page": "/notifications",
+  "/(dashboard)/page": "/",
+  "/page": "/",
+  "/(dashboard)/repairs/page": "/repairs",
+  "/(dashboard)/reports/page": "/reports",
+  "/(dashboard)/roles/page": "/roles",
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/api/proxy/[...path]/route": "/api/proxy/[...path]"
+}

@@ -1,0 +1,57 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/1tq6ppe__m8m-.js"
+3:"/_next/static/chunks/3r3l8yf3o_4yn.js"
+4:"/_next/static/chunks/2nipj1wf9q3wh.js"
+5:"/_next/static/chunks/1dxaxnv0vkrn2.js"
+6:I[65018,["$2","$3","$4","$5"],"QueryProvider"]
+7:I[92496,["$2","$3","$4","$5"],"ToastProvider"]
+8:"ConfirmDialogProvider"
+9:I[93582,["$2","$3","$4","$5"],"$8"]
+a:I[39756,["$2","$3","$4","$5"],"default"]
+b:I[37457,["$2","$3","$4","$5"],"default"]
+14:"$Sreact.suspense"
+15:"/_next/static/chunks/0tik7wo8hqiqz.js"
+16:"/_next/static/chunks/4127ajgyvi_6b.js"
+17:"/_next/static/chunks/03aoqndbzmvsj.js"
+18:"/_next/static/chunks/3bsv4fwk2l1qd.js"
+19:"/_next/static/chunks/2n0wh717yx3wi.js"
+1a:"/_next/static/chunks/0kx-2lblcaxhm.js"
+1b:"/_next/static/chunks/1vauaw1c-eu46.js"
+1c:"/_next/static/chunks/2tp416uqzzeli.js"
+1d:"/_next/static/chunks/18dwhx0nclqcd.js"
+1e:"/_next/static/chunks/1zqanmfj_p9j2.js"
+1f:I[5014,["$2","$3","$4","$5","$15","$16","$17","$18","$19","$1a","$1b","$1c","$1d","$1e"],"default"]
+21:I[97367,["$2","$3","$4","$5"],"OutletBoundary"]
+24:"ViewportBoundary"
+25:I[97367,["$2","$3","$4","$5"],"$24"]
+27:"MetadataBoundary"
+28:I[97367,["$2","$3","$4","$5"],"$27"]
+2b:I[68027,["$2","$3","$4","$5"],"default",1]
+:HL["/_next/static/chunks/190rvlx3jg2xk.css","style"]
+:HL["/_next/static/media/051742360c26797e-s.p.1bkzbscqrt8rl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+c:X
+f:X
+11:X
+23:X
+13:[["children",{"s":"__PAGE__","h":514,"d":{"r":["$","$1","c",{"children":[["$","$14",null,{"fallback":["$","div",null,{"style":{"display":"flex","alignItems":"center","justifyContent":"center","minHeight":400},"children":["$","span",null,{"role":"status","aria-label":"Loading…","children":[["$","$L1f",null,{"ref":"$undefined","icon":{"name":"loader-circle","size":24,"node":[["path",{"d":"M21 12a9 9 0 1 1-6.219-8.56","key":"13zald"}]],"aliases":["loader-2"]},"className":"animate-spin","size":24,"aria-hidden":"true","style":{"color":"var(--color-brand)"}}],["$","span",null,{"className":"sr-only","children":"Loading…"}]]}]}],"children":"$L20"}],[["$","script","script-0",{"src":"/_next/static/chunks/2n0wh717yx3wi.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0kx-2lblcaxhm.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/1vauaw1c-eu46.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/2tp416uqzzeli.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/_next/static/chunks/18dwhx0nclqcd.js","async":true,"nonce":"$undefined"}],["$","script","script-5",{"src":"/_next/static/chunks/1zqanmfj_p9j2.js","async":true,"nonce":"$undefined"}]],["$","$L21",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@22"}]}]]}],"p":true,"v":"$23"}}]]
+12:[["children",{"s":{"n":"id","t":"d","k":"%%drp:id:086185467f326%%","s":["new"]},"h":514,"d":{"r":["$","$1","c",{"children":[null,["$","$La",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":true,"v":"$11"},"c":"$Q13"}]]
+10:[["children",{"s":"items","h":514,"d":{"r":["$","$1","c",{"children":[null,["$","$La",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":true,"v":"$11"},"c":"$Q12"}]]
+d:[["children",{"s":"(dashboard)","h":8706,"d":{"r":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/0tik7wo8hqiqz.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/4127ajgyvi_6b.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/03aoqndbzmvsj.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/3bsv4fwk2l1qd.js","async":true,"nonce":"$undefined"}]],"$Le"]}],"p":true,"v":"$f"},"c":"$Q10"}]]
+2a:X
+2c:X
+2d:X
+0:{"P":null,"c":["","items","[id]"],"q":"","i":false,"t":{"t":{"s":"","h":8722,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/190rvlx3jg2xk.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1tq6ppe__m8m-.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/3r3l8yf3o_4yn.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/2nipj1wf9q3wh.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/1dxaxnv0vkrn2.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"_0bjUvq_variable OyRuAW_variable","data-scroll-behavior":"smooth","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","link",null,{"rel":"preconnect","href":"https://e20v-backend-builds-950683968224.asia-southeast1.run.app"}]}],["$","body",null,{"children":[["$","a",null,{"href":"#main-content","className":"skip-link","children":"Skip to main content"}],["$","$L6",null,{"children":["$","$L7",null,{"children":["$","$L9",null,{"children":["$","$La",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]}]]}]]}],"p":true,"v":"$c"},"c":"$Qd"},"h":{"r":["$","$1","h",{"children":[null,["$","$L25",null,{"children":"$L26"}],["$","$L28",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$14",null,{"name":"Next.Metadata","children":"$L29"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":true,"v":"$2a"}},"m":"$undefined","G":["$2b",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/190rvlx3jg2xk.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$2c","s":"$2d","a":"$@2e","l":"$undefined","p":"$undefined","d":"$undefined","b":"PIINdBlVueIYecXTvQkq-","u":"$@2f"}
+11:C
+2d:300
+2f:true
+26:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#020817"}],["$","meta","3",{"name":"color-scheme","content":"dark"}]]
+22:null
+29:[["$","title","0",{"children":"Item Detail | Inventory"}],["$","meta","1",{"name":"description","content":"Enterprise inventory management system — track items, assignments, repairs, and more."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]
+2d:C
+2a:C
+2c:C
+23:C
+f:C
+c:C
+2e:null

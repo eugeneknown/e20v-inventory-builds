@@ -1,0 +1,23 @@
+{
+  "/(auth)/login/page": "app/(auth)/login/page.js",
+  "/(dashboard)/assignments/page": "app/(dashboard)/assignments/page.js",
+  "/(dashboard)/audit/page": "app/(dashboard)/audit/page.js",
+  "/(dashboard)/categories/page": "app/(dashboard)/categories/page.js",
+  "/(dashboard)/damage-notes/page": "app/(dashboard)/damage-notes/page.js",
+  "/(dashboard)/dashboard/page": "app/(dashboard)/dashboard/page.js",
+  "/(dashboard)/employees/page": "app/(dashboard)/employees/page.js",
+  "/(dashboard)/items/[id]/edit/page": "app/(dashboard)/items/[id]/edit/page.js",
+  "/(dashboard)/items/[id]/page": "app/(dashboard)/items/[id]/page.js",
+  "/(dashboard)/items/new/page": "app/(dashboard)/items/new/page.js",
+  "/(dashboard)/items/page": "app/(dashboard)/items/page.js",
+  "/(dashboard)/maintenance/page": "app/(dashboard)/maintenance/page.js",
+  "/(dashboard)/notifications/page": "app/(dashboard)/notifications/page.js",
+  "/(dashboard)/page": "app/(dashboard)/page.js",
+  "/(dashboard)/repairs/page": "app/(dashboard)/repairs/page.js",
+  "/(dashboard)/reports/page": "app/(dashboard)/reports/page.js",
+  "/(dashboard)/roles/page": "app/(dashboard)/roles/page.js",
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/proxy/[...path]/route": "app/api/proxy/[...path]/route.js",
+  "/page": "app/page.js"
+}

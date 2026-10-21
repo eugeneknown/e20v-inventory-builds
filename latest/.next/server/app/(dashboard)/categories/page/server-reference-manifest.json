@@ -1,0 +1,15 @@
+{
+  "node": {
+    "00b825420500e8d855566b7faa86cc584c2ac5ec3b": {
+      "workers": {
+        "app/(dashboard)/categories/page": {
+          "moduleId": 84329,
+          "async": false
+        }
+      },
+      "exportedName": "logoutAction",
+      "filename": "src/app/(auth)/login/actions.ts"
+    }
+  },
+  "edge": {}
+}
